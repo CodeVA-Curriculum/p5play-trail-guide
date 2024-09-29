@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "41e662d1f83f431a",
+    "type": "split",
+    "children": [
+      {
+        "id": "75119d708b6f9b79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed70d1805196471c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "region-map.canvas",
+                "viewState": {
+                  "x": 2146.5272042525894,
+                  "y": 761.8289875720291,
+                  "zoom": -1.9682526699701934
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8ab656a3c184ae93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43a5842c37d4770e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd76b9cd78781801",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6b1b529a18dd39a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ee5313dabe45a64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5ed71432c6f3326",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30ce4f24177169e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "881d2eca5e457d28",
+    "type": "split",
+    "children": [
+      {
+        "id": "b38ef3baaa217c4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f453e2e268ee233",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "applications/rectangles.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c4214283d6896b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "applications/rectangles.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9a50fc8b7983cb0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "028bf5deaccf12b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "applications/rectangles.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ed70d1805196471c",
+  "lastOpenFiles": [
+    "meta.md",
+    "region-map.canvas",
+    "_drafts/keydown-input.md",
+    "_drafts/adding-images.md",
+    "_drafts/function-basics.md",
+    "_drafts/click-and-key-events.md",
+    "_drafts",
+    "concepts/manipulating-variables.md",
+    "concepts/variables-types.md",
+    "applications/keycode-lastkey.md",
+    "applications/sprite-animations.md",
+    "applications/mouse-position-input.md",
+    "applications/sprite-physics-basics.md",
+    "concepts/randomization.md",
+    "applications/sprite-movement.md",
+    "applications/sprite-images.md",
+    "applications/sprite-basics.md",
+    "applications/triangles.md",
+    "applications/rectangles.md",
+    "applications/circles.md",
+    "applications/colors.md",
+    "applications/backgrounds.md",
+    "concepts/calling-functions.md",
+    "calling-methods.md",
+    "concepts/game-setup.md",
+    "_drafts/modulo.md",
+    "_drafts/other-shapes.md",
+    "templates",
+    "concepts",
+    "projects",
+    "applications",
+    "activities"
+  ]
+}
