@@ -3,8 +3,9 @@ title: Sprite Basics
 authors: Jon Stapleton
 description: Learn how to initialize and modify the attributes of `Sprite` objects. This tutorial covers the `new Sprite()` and `new Sprite(x,y)` constructors, the distinction between primitive variables and objects, and assigning values to `Sprite` attributes.
 type: tutorial
+video: https://www.youtube.com/embed/14I8C6FKINQ
 ---
-:::quick-take{src="#example" link}
+:::quick-take
 Sprites are ***objects*** that represent the different elements of your game. You will need to create a Sprite for each item, character, or landscape element. To make a basic sprite, initialize a variable using a name of your choice, then use the `new Sprite()` ***constructor*** as shown.
 
 ```javascript{#example}
