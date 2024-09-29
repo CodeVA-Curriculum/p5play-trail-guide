@@ -1,0 +1,3 @@
+[submodule "trail-guide"]
+	path = trail-guide
+	url = https://github.com/jonstapleton/trail-guide

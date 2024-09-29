@@ -1,0 +1,13 @@
+{
+  "name": "p5play-trail-guide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CodeVA-Curriculum/p5play-trail-guide.git",
+  "author": "Jon Stapleton <stapleton.jon.michael@gmail.com>",
+  "license": "GNUv3",
+  "private": true,
+  "scripts": {
+      	"setup": "yarn --cwd ./trail-guide/",
+      	"dev": "yarn --cwd ./trail-guide/ dev"
+    }
+}
