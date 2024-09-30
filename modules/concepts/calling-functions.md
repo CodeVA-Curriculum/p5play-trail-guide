@@ -17,14 +17,12 @@ function setup() {
 
 You ***call*** functions when you use any of the p5js or p5play library commands. For example, you might call the `createCanvas(200, 200)` function to tell the computer to make a game window, and the `circle` function to tell the computer to display a circle:
 
-:::p5sketch
 ```javascript
 function setup() {
 	createCanvas(200,200)
 	circle(100, 100, 50)
 }
 ```
-:::
 
 The numbers in the parentheses are called ***arguments***. They control *how* the computer follows the command. Every function has its own arguments that control a different thing about the command.
 :::

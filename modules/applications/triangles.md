@@ -7,7 +7,7 @@ type: tutorial
 :::quick-take{src="#example"}
 Use the `triangle(x1,y1,x2,y2,x3,y3)` command to instruct the computer to display a triangle. Triangles work differently from [[circles]] and [[rectangles]] in that none of the arguments set the size of the shape; instead, each pair of arguments tells the computer where to put one point of the triangle.
 
-```javascript{#example}
+```javascript
 function setup() {
 	createCanvas(200,200)
 	background(255)
