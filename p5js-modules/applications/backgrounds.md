@@ -3,6 +3,7 @@ title: Backgrounds
 authors: Jon Stapleton
 description: Learn how the p5js backgrounds work. This tutorial covers the `background(color)` method, using the various color options in p5js, and the relationship between the background and the `draw()` function.
 type: tutorial
+video: https://www.youtube.com/embed/14I8C6FKINQ
 ---
 :::quick-take{src="TODO:"}
 Use the `background(color)` command to tell the computer to cover the screen with a particular color.
