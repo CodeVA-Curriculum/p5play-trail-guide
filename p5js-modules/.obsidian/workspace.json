@@ -4,38 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f4712987accb0cb4",
+        "id": "ecd95148d5d38bfd",
         "type": "tabs",
         "children": [
           {
-            "id": "50069c2ba3ca5182",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "region-map.canvas",
-                "viewState": {
-                  "x": 2540.3893864219513,
-                  "y": 520.637479235715,
-                  "zoom": -2.265366910808889
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "region-map"
-            }
-          },
-          {
-            "id": "fd8d840bc9815c7f",
+            "id": "ce3050062a92fa19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "applications/sprite-collisions.md",
+                "file": "test.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "sprite-collisions"
+              "title": "test"
             }
           }
         ]
@@ -94,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 424.5
   },
   "right": {
     "id": "881d2eca5e457d28",
@@ -175,11 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50069c2ba3ca5182",
+  "active": "ce3050062a92fa19",
   "lastOpenFiles": [
-    "projects/asteroids/index.md",
+    "test.md",
     "applications/sprite-collisions.md",
     "region-map.canvas",
+    "projects/asteroids/index.md",
     "projects/asteroids/meta.md",
     "_assets/asteroids-map.png",
     "_assets/asteroids-map 1.png",
@@ -211,7 +195,6 @@
     "concepts/variables-types.md",
     "applications/keycode-lastkey.md",
     "applications/sprite-animations.md",
-    "applications/mouse-position-input.md",
     "templates",
     "concepts",
     "projects",
