@@ -1,18 +1,23 @@
 ---
 title: Make an "Asteroids" Game
 nodes:
-    - concepts/game-setup.md
-    - concepts/calling-functions.md
-    - applications/sprite-basics.md
-    - applications/sprite-images.md
-    - ./asteroids-sprites.md
-    - applications/sprite-animations.md
-    - ./asteroids-basic-animation.md
-    - concepts/variables-types.md
-    - concepts/manipulating-variables.md
-    - ./asteroids-basic-score.md
-    - concepts/randomization.md
-    - applications/sprite-groups.md
+    intro:
+        - concepts/game-setup.md
+        - concepts/calling-functions.md
+        - applications/sprite-basics.md
+    animations:
+        - $intro
+        - applications/sprite-images.md
+        - ./asteroids-sprites.md
+        - applications/sprite-animations.md
+        - ./asteroids-basic-animation.md
+    variables:
+        - $intro
+        - concepts/variables-types.md
+        - concepts/manipulating-variables.md
+        - ./asteroids-basic-score.md
+        - concepts/randomization.md
+        - applications/sprite-groups.md
 authors: Jon Stapleton
 description: Lorem ipsum dolor sit amet
 difficulty: 3
