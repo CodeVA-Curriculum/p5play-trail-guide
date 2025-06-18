@@ -4,36 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "75119d708b6f9b79",
+        "id": "ecd95148d5d38bfd",
         "type": "tabs",
         "children": [
           {
-            "id": "ed70d1805196471c",
+            "id": "ce3050062a92fa19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
+          },
+          {
+            "id": "c1355348283b75b5",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "region-map.canvas",
                 "viewState": {
-                  "x": 1400,
-                  "y": 640,
-                  "zoom": -1.8312570510948423
+                  "x": 2781.818181818182,
+                  "y": 1761.8181818181818,
+                  "zoom": -2.1844245711374275
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "region-map"
-            }
-          },
-          {
-            "id": "e9320ccf1717a8f0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
             }
           }
         ],
@@ -56,8 +58,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -94,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 424.5
   },
   "right": {
     "id": "881d2eca5e457d28",
@@ -110,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "region-map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for region-map"
+              "title": "Backlinks"
             }
           },
           {
@@ -129,12 +129,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "region-map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from region-map"
+              "title": "Outgoing links"
             }
           },
           {
@@ -155,11 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "region-map.canvas"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of region-map"
+              "title": "Outline"
             }
           }
         ]
@@ -179,12 +176,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9320ccf1717a8f0",
+  "active": "c1355348283b75b5",
   "lastOpenFiles": [
-    "applications/backgrounds.md",
-    "applications/sprite-physics-basics.md",
-    "applications/sprite-basics.md",
+    "test.md",
+    "applications/sprite-collisions.md",
     "region-map.canvas",
+    "projects/asteroids/index.md",
+    "projects/asteroids/meta.md",
+    "_assets/asteroids-map.png",
+    "_assets/asteroids-map 1.png",
+    "projects/asteroids/asteroids-sprites.md",
+    "_assets",
+    "projects/asteroids/asteroids-collisions.md",
+    "projects/breakout.md",
+    "projects/pacman",
+    "projects/guitar-hero",
+    "projects/breakout",
+    "projects/asteroids/asteroids-physics.md",
+    "projects/asteroids/asteroids-movement.md",
+    "projects/asteroids/asteroids-progression.md",
+    "projects/asteroids/asteroids-projectiles.md",
+    "projects/asteroids/asteroids-groups.md",
+    "projects/asteroids/asteroids-basic-animation.md",
+    "projects/asteroids/asteroids-basic-score.md",
+    "projects/asteroids.md",
+    "projects/asteroids",
+    "projects/guitar-hero.md",
+    "projects/pacman.md",
     "meta.md",
     "_drafts/keydown-input.md",
     "_drafts/adding-images.md",
@@ -195,23 +213,9 @@
     "concepts/variables-types.md",
     "applications/keycode-lastkey.md",
     "applications/sprite-animations.md",
-    "applications/mouse-position-input.md",
-    "concepts/randomization.md",
-    "applications/sprite-movement.md",
-    "applications/sprite-images.md",
-    "applications/triangles.md",
-    "applications/rectangles.md",
-    "applications/circles.md",
-    "applications/colors.md",
-    "concepts/calling-functions.md",
-    "calling-methods.md",
-    "concepts/game-setup.md",
-    "_drafts/modulo.md",
-    "_drafts/other-shapes.md",
     "templates",
     "concepts",
     "projects",
-    "applications",
-    "activities"
+    "applications"
   ]
 }
