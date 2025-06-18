@@ -15,32 +15,29 @@
               "state": {
                 "file": "region-map.canvas",
                 "viewState": {
-                  "x": 2146.5272042525894,
-                  "y": 761.8289875720291,
-                  "zoom": -1.9682526699701934
+                  "x": 1400,
+                  "y": 640,
+                  "zoom": -1.8312570510948423
                 }
-              }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "region-map"
             }
-          }
-        ]
-      },
-      {
-        "id": "8ab656a3c184ae93",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "43a5842c37d4770e",
+            "id": "e9320ccf1717a8f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "meta.md",
-                "mode": "source",
-                "source": false
-              }
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -59,8 +56,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -75,7 +75,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -83,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "applications/rectangles.md",
+                "file": "region-map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +118,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for region-map"
             }
           },
           {
@@ -123,10 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "applications/rectangles.md",
+                "file": "region-map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from region-map"
             }
           },
           {
@@ -137,7 +145,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -146,8 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "applications/rectangles.md"
-              }
+                "file": "region-map.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of region-map"
             }
           }
         ]
@@ -167,10 +179,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed70d1805196471c",
+  "active": "e9320ccf1717a8f0",
   "lastOpenFiles": [
-    "meta.md",
+    "applications/backgrounds.md",
+    "applications/sprite-physics-basics.md",
+    "applications/sprite-basics.md",
     "region-map.canvas",
+    "meta.md",
     "_drafts/keydown-input.md",
     "_drafts/adding-images.md",
     "_drafts/function-basics.md",
@@ -181,16 +196,13 @@
     "applications/keycode-lastkey.md",
     "applications/sprite-animations.md",
     "applications/mouse-position-input.md",
-    "applications/sprite-physics-basics.md",
     "concepts/randomization.md",
     "applications/sprite-movement.md",
     "applications/sprite-images.md",
-    "applications/sprite-basics.md",
     "applications/triangles.md",
     "applications/rectangles.md",
     "applications/circles.md",
     "applications/colors.md",
-    "applications/backgrounds.md",
     "concepts/calling-functions.md",
     "calling-methods.md",
     "concepts/game-setup.md",
