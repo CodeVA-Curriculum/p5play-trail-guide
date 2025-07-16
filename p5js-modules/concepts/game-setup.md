@@ -6,7 +6,7 @@ description: Learn how to create a blank game project that uses p5js and the p5p
 type: tutorial
 ---
 
-:::quick-take{src="TODO: hosted example" link}
+:::quick-take{src="TODO:"}
 Games made with p5js require at least two ***functions*** to be defined in the code: the `setup()` function, and the `draw()` function. 
 
 - The computer performs the instructions written in `setup()` *once* at the beginning of the program. Your `setup()` function must contain a `createCanvas(width, height)` command to set the size of the game window.
